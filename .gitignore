@@ -49,3 +49,7 @@ ckpt/*
 
 #pytest cache
 .cache/
+
+#gifs
+*.gif
+
