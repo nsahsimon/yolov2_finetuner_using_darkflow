@@ -1,6 +1,8 @@
 # ignore venv
 venv/
 
+#ignore any generated .tflite models
+*.tflite
 
 # Python bytecode
 *.pyc
